@@ -35,6 +35,6 @@
   },
   "dependencies": {
     "@primer/primitives": "^3.0.0",
-    "color": "^3.1.2"
+    "color": "^3.2.1"
   }
 }
